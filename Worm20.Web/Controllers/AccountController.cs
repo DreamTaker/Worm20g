@@ -12,7 +12,7 @@ using Worm20.Web.Filters;
 using Worm20.Web.Models;
 
 
-//Comment by CG
+//Comment by HQ
 namespace Worm20.Web.Controllers
 {
     [Authorize]
